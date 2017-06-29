@@ -1,3 +1,3 @@
-# meuSite
-# Site em Desenvolvimento de exemplo do usso do Bootstrap
-# Link: http://oliveirafabiana.esy.es
+
+Site em desenvolvimento para uso pessoal
+Link: http://oliveirafabiana.esy.es
